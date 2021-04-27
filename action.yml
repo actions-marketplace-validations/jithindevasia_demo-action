@@ -1,0 +1,8 @@
+name: Jithin Github Actions Docker Demo
+description: Jithin Github Actions Docker Demo
+
+author: Jithin Devasia
+
+runs:
+  using: docker
+  image: Dockerfile
