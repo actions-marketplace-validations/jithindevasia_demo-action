@@ -1,2 +1,2 @@
 FROM alpine:latest
-ENTRYPOINT ["echo helloooooo"]
+CMD ["echo", "helloooooo"]
